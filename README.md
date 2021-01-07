@@ -2,7 +2,7 @@
 
 Image Segmentation performed on GTA 5 Games Dataset using UNet Architecture
 
-Dataset URL: http://download.visinf.tu-darmstadt.de/data/from_games/
+Dataset URL: http://download.visinf.tu-darmstadt.de/data/from_games<br>
 UNet Paper: https://arxiv.org/abs/1505.04597
 
 Required Libraries: torch, numpy, PIL, glob, torchsummary, argparse, os, cv2
