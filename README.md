@@ -22,5 +22,5 @@ For testing:<br>
 python test.py -i `image_directory` -l `label_directory` -s `save_predicted_directory` -cp `checkpoint_saved`
 
 <b>Output:</b> <br>
-Here are some of my predictions from UNet model<br>
+Here are some of the predictions from my implementation of UNet Model<br><br><br>
 ![Prediction](https://github.com/bharath3794/UNet-Image-Segmentation/blob/main/My%20Predictions.png?raw=true)
