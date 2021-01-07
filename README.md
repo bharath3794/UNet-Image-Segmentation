@@ -20,3 +20,7 @@ python main.py -i `image_directory` -l `label_directory` -lr `learning_rate` -e 
 <br><br>
 For testing:<br>
 python test.py -i `image_directory` -l `label_directory` -s `save_predicted_directory` -cp `checkpoint_saved`
+
+<b>Output:</b> <br>
+Here are some of my predictions from UNet model<br>
+![Prediction](https://github.com/bharath3794/UNet-Image-Segmentation/blob/main/My%20Predictions.png?raw=true)
