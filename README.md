@@ -1,5 +1,4 @@
 # UNet for Image Segmentation
-Basic template for Pytorch based DL training.
 
 `datagenerator.py` : To create custom data generation that we can use in PyTorch.
 `model.py`  : Implemented U-Net architecture here.
