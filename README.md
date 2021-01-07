@@ -2,10 +2,10 @@
 
 Image Segmentation performed on GTA 5 Games Dataset using UNet Architecture
 
-Dataset URL: http://download.visinf.tu-darmstadt.de/data/from_games<br>
-UNet Paper: https://arxiv.org/abs/1505.04597
+<b>Dataset URL:</b> http://download.visinf.tu-darmstadt.de/data/from_games<br>
+<b>UNet Paper:</b> https://arxiv.org/abs/1505.04597
 
-Required Libraries: torch, numpy, PIL, glob, torchsummary, argparse, os, cv2
+<b>Required Libraries:</b> torch, numpy, PIL, glob, torchsummary, argparse, os, cv2
 
 `datagenerator.py` : To create custom data generation that we can use in PyTorch.
 `model.py`  : Implemented U-Net architecture here.
